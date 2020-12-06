@@ -14,4 +14,4 @@ ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/No-OnE-Kn0wS-Me/TG-URL-Uploader)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/kaviya-admin/Wizard-URL-Uploader-Robot)
